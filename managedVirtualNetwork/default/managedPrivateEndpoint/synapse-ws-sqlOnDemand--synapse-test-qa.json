@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--synapse-test-qa",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/186a85ae-11d1-4c8c-908c-b07638305302/resourceGroups/synapse-test/providers/Microsoft.Synapse/workspaces/synapse-test-qa",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"synapse-test-qa-ondemand.217123f4-3fba-4847-83e1-ec8facf139d9.sql.azuresynapse.net"
+		]
+	}
+}

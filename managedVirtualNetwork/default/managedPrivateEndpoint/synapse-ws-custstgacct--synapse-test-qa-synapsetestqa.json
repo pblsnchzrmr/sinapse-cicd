@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--synapse-test-qa-synapsetestqa",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/186a85ae-11d1-4c8c-908c-b07638305302/resourceGroups/synapse-test/providers/Microsoft.Storage/storageAccounts/synapsetestqa",
+		"groupId": "dfs"
+	}
+}
